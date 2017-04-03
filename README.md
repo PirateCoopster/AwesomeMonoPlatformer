@@ -1,0 +1,2 @@
+# AwesomeMonoPlatformer
+project
